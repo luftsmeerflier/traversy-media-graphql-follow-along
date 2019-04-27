@@ -1,1 +1,1 @@
-$ traversey-media-graphql-follow-along
+# Followed along a GraphQL tutorial, pushed for reference purposes. 
